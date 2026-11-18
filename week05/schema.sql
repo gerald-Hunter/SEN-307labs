@@ -1,9 +1,9 @@
 -- VUA-SEN307 Database Systems | Week 5 Practical Lab 3
--- Student: Paul Kelechi | Matric: VUG/SEN/24/12934
+-- Student: SAMPSON-EWUZIE CHIMAOBI GERALD | Matric: VUG/SEN/24/11562
 -- Database name follows the Week 4 naming convention.
 
-CREATE DATABASE IF NOT EXISTS sen307_VUG_SEN_24_12934;
-USE sen307_VUG_SEN_24_12934;
+CREATE DATABASE IF NOT EXISTS sen307_VUG_SEN_24_11562;
+USE sen307_VUG_SEN_24_11562;
 
 CREATE TABLE Department (
     dept_id INT PRIMARY KEY AUTO_INCREMENT,
